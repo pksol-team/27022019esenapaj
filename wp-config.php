@@ -25,7 +25,7 @@ define('DB_NAME', 'japenese');
 /** MySQL database username */
 define('DB_USER', 'root');
 
-/** MySQL database password */
+/** MySQL database password changed */ 
 define('DB_PASSWORD', '');
 
 /** MySQL hostname */
